@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@babel/polyfill": "^7.6.0",
+    "@babel/polyfill": "^7.8.7",
     "async": "^3.1.0",
     "cheerio": "^1.0.0-rc.3",
     "co": "^4.6.0",
